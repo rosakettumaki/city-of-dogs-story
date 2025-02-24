@@ -61,7 +61,7 @@ I did some online research for the text, interviewed a source, and took photos a
 I started by mixing two different templates and embedding my Datawrapper charts into the page. Finally, I added the photos and text.
 
 GitHub repo: https://github.com/rosakettumaki/city-of-dogs-story
-Story page: https://rosakettumaki.github.io/city-of-dogs-story/
+Story page: https://rosakettumaki.github.io/city-of-dogs-story
 
 **What did I learn? How could this be improved?**
 
