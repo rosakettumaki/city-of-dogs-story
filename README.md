@@ -21,7 +21,8 @@ NYC Health has an excellent database of dog licenses issued in the city. This is
 NYC Dog Licensing Dataset:
 https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp/about_data
 
-***Cleaning the data**
+**Cleaning the data**
+
 At first, I conducted research in Notebooks using Pandas for exploratory data analysis. My goal was to find the most interesting insights from the data. During this process, I found some issues related to dogs’ birth data. The dataset contains dogs that, according to the data, were born between 1912 and 1990 and still had a license issued in the 2020s. I emailed NYC Health to figure out how this was possible, but unfortunately, they have not yet responded.
 
 However, since this is an official dataset run by city authorities, I didn’t let this relatively small issue ruin the whole process. That said, it did make me pivot away from visualizing the ages of NYC dogs.
