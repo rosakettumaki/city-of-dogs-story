@@ -54,10 +54,10 @@ Most popular names: https://datawrapper.dwcdn.net/Tmjm3/8/
 Most popular breeds: https://datawrapper.dwcdn.net/TLFU8/3/
 Map: https://app.datawrapper.de/edit/HTT02/publish
 
-***Reporting***
+**Reporting**
 I did some online research for the text, interviewed a source, and took photos at Snoot Club Pet Grooming. All the photos used in the story were taken by me at this location.
 
-**Building the webpage****
+**Building the webpage**
 I started by mixing two different templates and embedding my Datawrapper charts into the page. Finally, I added the photos and text.
 
 GitHub repo: https://github.com/rosakettumaki/city-of-dogs-story
@@ -72,3 +72,5 @@ The overall style of the story could also be improved:
 The graphics could be more refined.
 The photos would benefit from some light editing.
 The text could include more detailed facts.
+
+Even thought there are multiple ways to improve, I really learned a lot about the process and how to manage the workflow. This was my second project following these guidelines, and the overall exprience was a lot smoother that at the fisrt time.
